@@ -1,7 +1,7 @@
 # Shekel Terms of Service
 
-**Effective Date: [INSERT LAUNCH DATE]**
-**Last Updated: [INSERT DATE]**
+**Effective Date: June 1, 2026**
+**Last Updated: June 1, 2026**
 **Version: 3.0**
 
 These Terms of Service ("**Terms**") are a binding legal agreement between you ("**you**," "**your**," or "**User**") and **Shekel Labs LLC**, a Wyoming limited liability company ("**Shekel**," "**we**," "**us**," or "**our**"), governing your access to and use of the website at shekel.xyz, the Shekel applications (web, desktop, and mobile), and all related software, tools, and services (collectively, the "**Service**").
@@ -147,7 +147,7 @@ We may modify these Terms at any time. If we make material changes, we will upda
 ## 20. Contact
 
 Shekel Labs LLC
-[INSERT REGISTERED MAILING ADDRESS], Wyoming, U.S.A.
+30 N Gould St, Ste R, Sheridan, WY 82801, U.S.A.
 General: jeremy@shekel.xyz
 Legal / disputes: legal@shekel.xyz
 Privacy: privacy@shekel.xyz

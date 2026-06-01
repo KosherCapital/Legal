@@ -14,10 +14,11 @@ This repository is the **single source of truth**. The in-app pages, consent pop
 
 ## Status
 
-> ⚠️ **Pre-launch drafts.** Before these are linked in-app, announced, or relied upon, the following must be completed:
-> - Fill all `[INSERT …]` placeholders (effective/launch date, last-updated date, registered Wyoming mailing address).
-> - Confirm the contact mailboxes are live and monitored: `legal@shekel.xyz`, `privacy@shekel.xyz`, `jeremy@shekel.xyz`.
-> - Final legal review.
+> **Effective / Last Updated: June 1, 2026.** Registered office: Shekel Labs LLC, 30 N Gould St, Ste R, Sheridan, WY 82801, U.S.A.
+>
+> - [x] Placeholders filled (dates + registered Wyoming address).
+> - [x] Contact mailboxes confirmed live and monitored: `legal@shekel.xyz`, `privacy@shekel.xyz`, `jeremy@shekel.xyz`.
+> - [ ] Final legal review (recommended before broad public reliance).
 
 ## Versioning & consent
 

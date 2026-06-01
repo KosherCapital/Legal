@@ -1,7 +1,7 @@
 # Shekel Privacy Policy
 
-**Effective Date: [INSERT LAUNCH DATE]**
-**Last Updated: [INSERT DATE]**
+**Effective Date: June 1, 2026**
+**Last Updated: June 1, 2026**
 
 This Privacy Policy explains how **Shekel Labs LLC**, a Wyoming limited liability company ("**Shekel**," "**we**," "**us**," or "**our**"), collects, uses, shares, and protects information when you use the website at shekel.xyz and the Shekel applications and services (the "**Service**"). It is incorporated into and part of our Terms of Service. By using the Service, you acknowledge this Privacy Policy.
 
@@ -93,6 +93,6 @@ We may update this Privacy Policy from time to time. We will update the "Last Up
 ## 14. Contact
 
 Shekel Labs LLC
-[INSERT REGISTERED MAILING ADDRESS], Wyoming, U.S.A.
+30 N Gould St, Ste R, Sheridan, WY 82801, U.S.A.
 Privacy requests: privacy@shekel.xyz
 General: jeremy@shekel.xyz
